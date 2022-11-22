@@ -1,0 +1,34 @@
+sno=int(input('enter sno:'))
+Name=input('enter name:')
+Group=input('enter group;')
+Phno=int(input('enter number:'))
+Address=input('enter Address:')
+Percent=float(input('enter degree_percent:'))
+
+print('Student Details:')
+print('sno:',sno)
+print('Name:',Name)
+print('Group:',Group)
+print('Phno:',Phno)
+print('Address:',Address)
+print('Percent:',Percent)              
+              
+              
+              
+              
+              
+              
+  output:
+ enter sno:355271
+enter name:manasa
+enter group;maircs
+enter number:8767528182
+enter Address:visakhapatnam
+enter degree_percent:88
+Student Details:
+sno: 355271
+Name: manasa
+Group: maircs
+Phno: 8767528182
+Address: visakhapatnam
+Percent: 88.0
